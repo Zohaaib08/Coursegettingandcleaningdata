@@ -1,0 +1,21 @@
+FINAL ASSIGNMENT FOR GETTING AND CLEANING DATA PROJECT 
+
+
+The run_analysis script performs the following functions in order: 
+
+Step 1: Read files and label data frames with appropriate variable names.
+Step 2: Merging the training and the test sets to create one data set.
+Step 3: Extracting only the measurements on the mean and standard deviation for each measurement.
+Step 4: Using descriptive activity names to name the activities in the data set.
+Step 5: Creating a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+
+The repository includes the following files:
+=========================================
+
+- 'README.Rmd'
+- 'run_analysis.R' : Contains the script for the above analysis 
+- 'Codebook.md' : Contains a thorough description for variables, data, transformations of the tidy data set
+
+The end result is displayed in tidydata2.txt. 
+
